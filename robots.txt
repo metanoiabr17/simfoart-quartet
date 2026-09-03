@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simfoart.ro/sitemap.xml
